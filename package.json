@@ -1,0 +1,16 @@
+{
+  "name": "express-router-importer",
+  "version": "1.0.1",
+  "description": "express router importer",
+  "main": "dist/routerImporter.js",
+  "keywords": [
+    "node",
+    "express",
+    "router"
+  ],
+  "author": "Park Si-Yual",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
